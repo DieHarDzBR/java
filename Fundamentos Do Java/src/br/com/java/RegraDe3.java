@@ -7,7 +7,7 @@ public class Regra3 {
 	public static void main(String[] args) {
 		double x,y,valor;
 		Scanner teclado = new Scanner(System.in);
-		System.out.println("Calculando a Regra de 3");
+		System.out.println("Calculando a Reegra de 3");
 		System.out.println("-----Regra de 3-------");
 		System.out.println("X % de Y = valor");
 		//entrada

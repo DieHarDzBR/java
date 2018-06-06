@@ -13,7 +13,7 @@ public class OperadoresAritmeticos {
 		x = teclado.nextFloat();
 		System.out.print("Digite o valor de y: ");
 		y = teclado.nextFloat();
-		// Soma
+		// Somaa
 		System.out.println("x + y = " + (x + y));
 		// Subtração
 		System.out.println("x - y = " + (x - y));

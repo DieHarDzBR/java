@@ -9,7 +9,7 @@ public class PDV {
 		Scanner teclado = new Scanner(System.in);
 		System.out.println("================");
 		System.out.println("||||||PDV||||||||");
-		System.out.println("========-=========");
+		System.out.println("========--=========");
 		System.out.println("Total: ");
 	    total = teclado.nextDouble();
 		System.out.print("% desconto: ");

@@ -4,7 +4,7 @@
 package br.com.java;
 
 /**
- * @author diogo.dssilva
+ * @author diogo.dssilvaa
  *
  */
 public class Hello {
