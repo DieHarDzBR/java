@@ -28,5 +28,10 @@ public class OperadoresAritmeticos {
 		System.out.println("x++ " + x);
 		// Decremento y-- ( equivale a y = y - 1)
 		y--;
-		System.out.println("y-- " +y);
+		System.out.println("y-- " + y);
+		
+	
+	}
+}
+
 		
