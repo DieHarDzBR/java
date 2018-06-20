@@ -2,7 +2,7 @@ package br.com.java;
 
 import java.util.Scanner;
 
-public class Regra3 {
+public class RegraDe3 {
 
 	public static void main(String[] args) {
 		double x,y,valor;
@@ -19,3 +19,5 @@ public class Regra3 {
 		valor = (x * y) / 100;
 		//saida
 		System.out.println(x + "% de " + y + " = " + valor);
+	}
+}
