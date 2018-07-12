@@ -6,7 +6,7 @@ package br.com.java;
 
 import java.util.Scanner;
 
-public class ConversorDeMoeda {
+public class ConversorDolar {
 
 	public static void main(String[] args) {
 		double dolar,real, conversor;
